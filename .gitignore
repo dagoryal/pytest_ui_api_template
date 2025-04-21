@@ -429,6 +429,7 @@ pyrightconfig.json
 *tmpfile
 *tmpfiles
 *lol
+!test/ 
 
 ### VisualStudioCode ###
 .vscode/*
