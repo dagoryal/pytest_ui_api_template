@@ -3,10 +3,10 @@
 ## Шаблон для автоматизации тестирования на python
 
 ### Стек:
--pytest
--selenium
--requests
--_sqlalchemy_
+- pytest
+- selenium
+- requests
+- _sqlalchemy_
 
 
 ### Полезные ссылки
